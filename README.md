@@ -3,7 +3,7 @@ This is my personal list for [Team Fortress 2 Bot Detector](https://github.com/P
 
 Bots will be marked with "Bot" in the description/proof section. Human cheaters will have a blank description/proof.
 
-**I will only mark players who I am 100% confident are cheating as "cheater".** Only players who I myself can see actively cheating will get this mark. 
+**I will only mark players who I am 100% confident are cheating as "cheater".**
 
 Players who I think are very likely to be cheaters, but I haven't seen solid evidence of this, will be marked as "suspicious". Do not assume these players are cheaters based on the tag.
 
