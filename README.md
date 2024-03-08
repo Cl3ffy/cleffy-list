@@ -19,4 +19,4 @@ PLEASE NOTE: I am personally using the following playerlists:
 - [playerlist.biglist](https://github.com/ClusterConsultant/TF2BD-Community-Lists/raw/main/playerlist.biglist.zip)
 - [playerlist.official](https://github.com/PazerOP/tf2_bot_detector)
 
-I wont bother adding anyone already within one of these lists to my personal list, so I recommend using these playerlists yourself for optimal results.
+I wont bother adding cheaters already within one of these lists to my personal list, so I recommend using these playerlists yourself for optimal results.
