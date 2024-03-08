@@ -20,3 +20,7 @@ PLEASE NOTE: I am personally using the following playerlists:
 - [playerlist.official](https://github.com/PazerOP/tf2_bot_detector)
 
 I wont bother adding cheaters already within one of these lists to my personal list, so I recommend using these playerlists yourself for optimal results.
+
+---
+
+[More about TF2 Bot Detector's third-party player lists + installation instructions](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization#third-party-player-lists-and-rules)
