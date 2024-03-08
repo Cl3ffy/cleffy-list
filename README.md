@@ -1,13 +1,15 @@
 # cleffy-list
-This is my personal list for [Team Fortress 2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector). 
+This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector). 
 
-Bots will be marked with "Bot" in the description/proof section. Human cheaters will have a blank description/proof.
+Bots will be marked with "Bot" in the description/proof section. Human cheaters will have blank description/proof.
 
-**I will only mark players who I am 100% confident are cheating as "cheater".**
+**I will only mark players who I am 100% confident are cheating as cheater.**
 
-Players who I think are very likely cheating, but I haven't seen solid enough evidence of this, will be marked as "suspicious". Do not assume these players are cheaters based only on this tag.
+Players marked as "suspicious" I consider highly likely to be cheating but I haven't seen solid enough evidence to mark them as cheater. Do not assume these players are cheaters based only on this mark alone. 
 
-I am the only one who manages this list. I will only add cheaters I encounter in-game myself to this list.
+I am the only one who manages this list. I will only add cheaters/bots I encounter in-game myself to this list. I do not accept submissions from others.
+
+Remember that you shouldn't blindly trust accusations from a random internet stranger, including me. Use other lists for cross-checking if possible, check their profile and steam history, etc. And most importantly use your own eyes and brain. 
 
 #
 
