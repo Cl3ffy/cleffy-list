@@ -9,6 +9,6 @@ Players who I think are very likely cheating, but I haven't seen solid enough ev
 
 I am the only one who manages this list. I will only add cheaters I encounter in-game myself to this list.
 
----
+#
 
 [More about TF2 Bot Detector's third-party player lists + installation instructions](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization#third-party-player-lists-and-rules)
