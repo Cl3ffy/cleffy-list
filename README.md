@@ -9,7 +9,7 @@ Players marked as "suspicious" I consider highly likely to be cheating but I hav
 
 I am the only one who manages this list. I will only add cheaters/bots I encounter in-game myself to this list. I do not accept submissions from others.
 
-_Remember that you shouldn't blindly trust accusations from a random internet stranger, including me. Use other lists for cross-checking if possible, check their profile and steam history etc. Use your own eyes and brain._ 
+_Remember that you shouldn't blindly trust accusations from a random internet stranger, including me. Use other lists for cross-checking if possible, check their profile and steam history, etc. Use your own eyes and brain._ 
 
 #
 
