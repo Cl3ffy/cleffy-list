@@ -1,5 +1,4 @@
 # cleffy-list
----
 This is my personal list for [Team Fortress 2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector). 
 
 Bots will be marked with "Bot" in the description/proof section. Human cheaters will have a blank description/proof.
