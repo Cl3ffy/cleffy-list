@@ -13,9 +13,8 @@ I am the only one who manages this list. I will only add cheaters I encounter in
 
 PLEASE NOTE: I am personally using the following playerlists:
 - [playerlist.trusted](https://github.com/ClusterConsultant/TF2BD-Community-Lists/raw/main/playerlist.trusted.zip)
-- [playerlist.nullc0re](https://github.com/surepy/tf2db-sleepy-list/releases)
-- [playerlist.sleepy-bots.merged](https://github.com/surepy/tf2db-sleepy-list/releases)
-- [playerlist.megacheaterdb](https://github.com/surepy/tf2db-sleepy-list/releases)
+- [playerlist.sleepy-bots.merged](https://github.com/surepy/tf2db-sleepy-list/releases/download/release/playerlist.sleepy-bots.merged.json)
+- [playerlist.megacheaterdb](https://github.com/surepy/tf2db-sleepy-list/releases/download/release/playerlist.megacheaterdb.json)
 - [playerlist.biglist](https://github.com/ClusterConsultant/TF2BD-Community-Lists/raw/main/playerlist.biglist.zip)
 - [playerlist.official](https://github.com/PazerOP/tf2_bot_detector)
 
