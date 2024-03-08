@@ -7,6 +7,8 @@ Bots will be marked with "Bot" in the description/proof section. Human cheaters 
 
 Players who I think are very likely to be cheaters, but I haven't seen solid evidence of this, will be marked as "suspicious". Do not assume these players are cheaters based on the tag.
 
+I am the only one who manages this list. I will only add cheaters I encounter in-game myself to this list.
+
 PLEASE NOTE: I am personally using the following playerlists:
 - [playerlist.trusted](https://github.com/ClusterConsultant/TF2BD-Community-Lists/raw/main/playerlist.trusted.zip)
 - [playerlist.nullc0re](https://github.com/surepy/tf2db-sleepy-list/releases)
