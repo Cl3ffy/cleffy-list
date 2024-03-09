@@ -9,6 +9,8 @@ Players marked as "suspicious" I consider highly likely to be cheating but I hav
 
 I am the only one who manages this list. I will only add cheaters/bots I encounter myself to this list. I do not accept submissions from others nor will I merge this list with anyone else's list.
 
+This list will be the most effective on Stockholm and Frankfurt servers, since that's where I play casual most of the time.
+
 #
 
 [More about TF2 Bot Detector's third-party player lists + installation instructions](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization#third-party-player-lists-and-rules)
