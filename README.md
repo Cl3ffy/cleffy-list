@@ -3,7 +3,7 @@ This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github
 
 Bots are marked with the word "Bot" in the "reason/proof" section. Human cheaters have a blank "reason/proof".
 
-**I only mark a player as "cheater" if I am fully confident they are cheating.** As a result, closet/non-blatant cheaters are mostly left out from this list or possibly marked as "suspicious".
+**I only mark a player as "cheater" if I am fully confident they are cheating.** As a result, closet/non-blatant cheaters are mostly left out from this list or marked as "suspicious".
 
 Players marked as "suspicious" I consider highly likely to be cheating but I haven't seen solid enough evidence to mark them as cheater.
 
