@@ -3,7 +3,7 @@ This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github
 
 Bots are marked with the word "Bot" in the "reason/proof" section. Human cheaters have a blank "reason/proof".
 
-**I only mark players who I am 100% confident are cheating as cheater.** This means players wont get marked as cheater here because they "hit a couple suspicious shots" or something along those lines. 
+**I only mark a player as "cheater" if I am fully confident they are cheating.** As a result, closet/non-blatant cheaters are mostly left out from this list or possibly marked as "suspicious".
 
 Players marked as "suspicious" I consider highly likely to be cheating but I haven't seen solid enough evidence to mark them as cheater.
 
@@ -16,4 +16,5 @@ This list is most effective on Stockholm and Frankfurt servers, since that's whe
 [My Steam, in case you have any questions/complaints/whatever](https://steamcommunity.com/id/Cleffy/)
 
 #
+
 [More about TF2 Bot Detector's third-party player lists + installation instructions](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization#third-party-player-lists-and-rules)
