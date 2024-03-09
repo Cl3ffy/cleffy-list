@@ -1216,6 +1216,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1709949957
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1598941011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Sy\u0e4adney #Floydskins.shop",
 				"time": 1705947240
 			},
@@ -1378,12 +1390,60 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1709949962
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1599734524]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709949959
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1599809975]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1708206153
 			},
 			"proof": [
 				"Bot"
 			],
 			"steamid": "[U:1:1599895527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709949947
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1599907880]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709949953
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1599966316]"
 		},
 		{
 			"attributes": [
@@ -1408,6 +1468,30 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1600062595]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709949945
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600063026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709949950
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600163018]"
 		},
 		{
 			"attributes": [
@@ -1836,6 +1920,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1612206846]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709948641
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1613515422]"
 		},
 		{
 			"attributes": [
@@ -4364,6 +4460,42 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1685300938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709948675
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1687242266]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709948672
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1687431971]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709948669
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1687469261]"
 		},
 		{
 			"attributes": [
