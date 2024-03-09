@@ -1,7 +1,7 @@
 # cleffy-list
 This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector). 
 
-Bots will be marked with the word "Bot" in the "reason" section. Human cheaters will have blank "reason".
+Bots will be marked with the word "Bot" in the "reason/proof" section. Human cheaters will have blank "reason/proof".
 
 **I will only mark players who I am 100% confident are cheating as cheater.**
 
