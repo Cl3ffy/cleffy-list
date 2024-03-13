@@ -154,6 +154,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "[PREMIUM] twilight sparkle <3",
+				"time": 1710170467
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:896147651]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Arenateamplayer",
 				"time": 1706392787
 			},
@@ -168,6 +181,28 @@
 				"time": 1707517043
 			},
 			"steamid": "[U:1:978944115]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710295341
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1005018833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "keepa",
+				"time": 1710172697
+			},
+			"steamid": "[U:1:1041316046]"
 		},
 		{
 			"attributes": [
@@ -190,6 +225,19 @@
 				"time": 1708388162
 			},
 			"steamid": "[U:1:1094036563]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kitty-bot 3 =}",
+				"time": 1710297190
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1155408984]"
 		},
 		{
 			"attributes": [
@@ -633,6 +681,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "kitty-bot 2 =}",
+				"time": 1710297187
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1555326206]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709871909
 			},
 			"proof": [
@@ -915,6 +976,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1710295515
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1563777080]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709869476
 			},
 			"proof": [
@@ -1185,6 +1258,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1710294791
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1568442466]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709869471
 			},
 			"proof": [
@@ -1352,6 +1437,18 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710295338
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1588809604]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -1359,6 +1456,42 @@
 				"time": 1704625055
 			},
 			"steamid": "[U:1:1588917999]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710295344
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1589877169]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710295347
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1590085355]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710295335
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1590470362]"
 		},
 		{
 			"attributes": [
@@ -4935,6 +5068,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1690838259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1710103719
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1691133137]"
 		}
 	]
 }
