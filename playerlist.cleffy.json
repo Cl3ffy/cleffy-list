@@ -231,6 +231,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "MLG",
+				"time": 1710363238
+			},
+			"steamid": "[U:1:1116246709]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "kitty-bot 3 =}",
 				"time": 1710297190
 			},
@@ -4930,6 +4940,32 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Mech\u0304inat\u0304or",
+				"time": 1710715218
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1682465216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mechin\u0101tor",
+				"time": 1710717447
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1682636797]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709865177
 			},
 			"proof": [
@@ -5081,6 +5117,69 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1691133137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mec\u1e25ina\u1e6dor",
+				"time": 1710715324
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1691922568]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4eMEGATRONIC",
+				"time": 1710714279
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1692679649]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4eEGATRONIC",
+				"time": 1710715154
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1693063551]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710714571
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1693281637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710714567
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1693284932]"
 		}
 	]
 }
