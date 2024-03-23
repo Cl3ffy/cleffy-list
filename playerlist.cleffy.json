@@ -154,6 +154,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Portugal",
+				"time": 1711162157
+			},
+			"steamid": "[U:1:884829123]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[PREMIUM] twilight sparkle <3",
 				"time": 1710170467
 			},
@@ -675,6 +685,16 @@
 				"time": 1706918042
 			},
 			"steamid": "[U:1:1443378566]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doctor Lervix",
+				"time": 1711161871
+			},
+			"steamid": "[U:1:1443852624]"
 		},
 		{
 			"attributes": [
@@ -5390,6 +5410,150 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1693284932]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161789
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696258713]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161774
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696326567]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161769
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696483212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161781
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696507223]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161763
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696561939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161786
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696714840]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161766
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1696732246]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161760
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697089426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161776
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697155194]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161784
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697343708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161758
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697654930]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711161772
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697821918]"
 		}
 	]
 }
