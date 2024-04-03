@@ -4617,6 +4617,32 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "d\u0e48sc.gg/val\u0e48veant\u0e48icheat",
+				"time": 1712177122
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1637658298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "d\u0e48sc.gg/val\u0e48veanticheat",
+				"time": 1712177229
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1637926282]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "twitch.tv/caseoh_",
 				"time": 1711597101
 			},
@@ -6896,6 +6922,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1691194051]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712176068
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1691254465]"
 		},
 		{
 			"attributes": [
