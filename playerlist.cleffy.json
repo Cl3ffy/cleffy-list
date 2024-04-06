@@ -904,6 +904,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "sunny Howling Fjord",
+				"time": 1712396123
+			},
+			"proof": [
+				"mvm"
+			],
+			"steamid": "[U:1:1388078153]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Fr4uzi",
 				"time": 1711166130
 			},
@@ -5335,6 +5348,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1712251676
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1663666382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "thumbsup",
 				"time": 1706991466
 			},
@@ -6878,6 +6903,31 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712244416
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690556039]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712248685
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690723174]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709872103
 			},
 			"proof": [
@@ -6910,6 +6960,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1691133137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712248687
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1691136303]"
 		},
 		{
 			"attributes": [
