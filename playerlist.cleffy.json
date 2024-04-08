@@ -61,12 +61,50 @@
 			],
 			"last_seen": {
 				"player_name": "youtube.com/@ScriptWonka",
+				"time": 1712555487
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:84742235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712555646
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:93368430]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@ScriptWonka",
 				"time": 1710040258
 			},
 			"proof": [
 				"Bot"
 			],
 			"steamid": "[U:1:96997769]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@ScriptWonka",
+				"time": 1712555055
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:97276400]"
 		},
 		{
 			"attributes": [
@@ -93,6 +131,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:114077283]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@ScriptWonka",
+				"time": 1712555275
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:114559428]"
 		},
 		{
 			"attributes": [
@@ -307,6 +358,96 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Grape Fanta Enthusiast",
+				"time": 1712556016
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1130390213]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Riggitystig",
+				"time": 1712556037
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1130439776]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yc235711131719",
+				"time": 1712555966
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1130526719]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TheBigChip",
+				"time": 1712555886
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1140032167]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Toku_Cafe",
+				"time": 1712553670
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1140315212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712555376
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1140898991]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Scion 6",
+				"time": 1712555818
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1140999921]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "kitty-bot 3 =}",
 				"time": 1710297190
 			},
@@ -342,6 +483,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "hops",
+				"time": 1712555799
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1201852646]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "The Worst Spy Main innovate.tf",
 				"time": 1706915228
 			},
@@ -349,6 +503,58 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1208638720]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Index",
+				"time": 1712553416
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1215529789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "darkmatter3dps",
+				"time": 1712559312
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1215557300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ijfri2006",
+				"time": 1712553413
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1216096653]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "thekraken932",
+				"time": 1712556054
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1216978300]"
 		},
 		{
 			"attributes": [
@@ -2460,6 +2666,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1712553402
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600003847]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1704331530
 			},
 			"proof": [
@@ -2762,6 +2980,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1712553400
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1607809520]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DELT\u2206TRONIC",
 				"time": 1706831816
 			},
@@ -2851,6 +3081,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1610235132]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Comandante Skiper",
+				"time": 1712560096
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1610756201]"
 		},
 		{
 			"attributes": [
@@ -6228,6 +6471,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1712555485
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1682300554]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Mech\u0304inat\u0304or",
 				"time": 1710715218
 			},
@@ -6916,6 +7171,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1712553357
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690617563]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1712248685
 			},
 			"proof": [
@@ -6997,6 +7264,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1691254465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712556286
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1691748157]"
 		},
 		{
 			"attributes": [
@@ -7867,6 +8146,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1701579918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Luna",
+				"time": 1712555441
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1704337245]"
 		}
 	]
 }
