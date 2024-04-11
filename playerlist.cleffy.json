@@ -358,6 +358,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Smiley",
+				"time": 1712694598
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1124033160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Grape Fanta Enthusiast",
 				"time": 1712556016
 			},
@@ -3100,6 +3113,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Aerichimaru",
+				"time": 1712694266
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1611091477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1705250540
 			},
 			"proof": [
@@ -4329,6 +4355,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1618881759]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712694290
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1619132020]"
 		},
 		{
 			"attributes": [
@@ -7133,6 +7171,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712695594
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690192798]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709955666
 			},
 			"proof": [
@@ -7195,12 +7246,38 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(1)BOOMY LOOMY",
+				"time": 1712696291
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690766734]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709872103
 			},
 			"proof": [
 				"Bot"
 			],
 			"steamid": "[U:1:1690838259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712779435
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1690857843]"
 		},
 		{
 			"attributes": [
@@ -8159,6 +8236,83 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1704337245]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)BOOMY LOOMY",
+				"time": 1712696724
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1708039718]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712695091
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1708190750]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712778525
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1708364123]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1712694295
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1708676941]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712696295
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1708956050]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BOOMY LOOMY",
+				"time": 1712694658
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1709480457]"
 		}
 	]
 }
