@@ -1,5 +1,5 @@
 # cleffy-list
-This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector). 
+This is my personal playerlist for [Team Fortress 2 Bot Detector](https://github.com/surepy/tf2_bot_detector). 
 
 Bots are marked with the word "Bot" in the "reason/proof" section. Human cheaters have a blank "reason/proof". Cheaters encountered in MvM will be marked with "mvm". 
 
