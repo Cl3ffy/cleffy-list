@@ -102,6 +102,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "GeniusWINNER",
+				"time": 1715797714
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:40485399]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Skunker",
 				"time": 1715489588
 			},
@@ -7280,6 +7293,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DELTATRONIC =}",
+				"time": 1715728400
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1669335698]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "UFO",
 				"time": 1706991150
 			},
@@ -7312,6 +7338,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1669485983]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "x64 DELTATRONIC",
+				"time": 1715728633
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1669565014]"
 		},
 		{
 			"attributes": [
@@ -7386,6 +7425,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1671545463]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1716082547
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1672875974]"
 		},
 		{
 			"attributes": [
@@ -7754,6 +7805,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1683808830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1716082529
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1683832653]"
 		},
 		{
 			"attributes": [
@@ -8699,6 +8762,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Mec\u0304hinator",
+				"time": 1715988303
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1692923775]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1712118842
 			},
 			"proof": [
@@ -9630,6 +9706,46 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1711121616]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SIGMATR\u00d8NIC",
+				"time": 1716082875
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1711633105]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Delia Garcia",
+				"time": 1716084293
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1718535097]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "https://youtu.be/M1y567N1d2Y",
+				"time": 1716084085
+			},
+			"proof": [
+				"a",
+				"Bot"
+			],
+			"steamid": "[U:1:1719215473]"
 		}
 	]
 }
