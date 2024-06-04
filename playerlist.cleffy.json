@@ -11,6 +11,16 @@
 	"players": [
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Lara \u2764 (She/her)",
+				"time": 1717374773
+			},
+			"steamid": "[U:1:198572]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -806,6 +816,16 @@
 				"time": 1710172697
 			},
 			"steamid": "[U:1:1041316046]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waveform",
+				"time": 1717373199
+			},
+			"steamid": "[U:1:1043207329]"
 		},
 		{
 			"attributes": [
@@ -1927,6 +1947,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ix37",
+				"time": 1717373158
+			},
+			"steamid": "[U:1:1265390511]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ESCAPE \u0e4dTHE\u0e4d MATRI\u0e4dX",
 				"time": 1716249822
 			},
@@ -2233,6 +2263,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nyashnayloli",
+				"time": 1717374507
+			},
+			"steamid": "[U:1:1520005433]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -2243,6 +2283,70 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e38\u041b\u0401\u0425\u0410 \u0411\u0420\u0418\u0413\u0410\u0414\u0418\u0420",
+				"time": 1717378219
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1536177819]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u041b\u0401\u0425\u0410 \u0411\u0420\u0418\u0413\u0410\u0414\u0418\u0420\u0e37",
+				"time": 1717377643
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1536570295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u041b\u0e35\u0401\u0425\u0410 \u0411\u0420\u0418\u0413\u0410\u0414\u0418\u0420",
+				"time": 1717378217
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1537186095]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717377718
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1537867555]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u041b\u0401\u0425\u0410 \u0411\u0420\u0e35\u0418\u0413\u0410\u0414\u0418\u0420",
+				"time": 1717377816
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1537940032]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -2250,6 +2354,31 @@
 				"time": 1716251220
 			},
 			"steamid": "[U:1:1540159276]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717377646
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1540589944]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u041b\u0401\u0425\u0410 \u0e37\u0411\u0420\u0418\u0413\u0410\u0414\u0418\u0420",
+				"time": 1717377715
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1548914595]"
 		},
 		{
 			"attributes": [
@@ -2986,6 +3115,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1582897364]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717372497
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1582939800]"
 		},
 		{
 			"attributes": [
@@ -3751,6 +3892,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717364344
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600080987]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717364326
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600088603]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1709954019
 			},
 			"proof": [
@@ -3825,6 +3990,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717533580
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600426916]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "dsc.gg/tf2gym NO WEAKNESS",
 				"time": 1712868125
 			},
@@ -3845,6 +4022,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1600671216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717364323
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1600938059]"
 		},
 		{
 			"attributes": [
@@ -4069,6 +4258,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717533577
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1607756405]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1712553400
 			},
 			"proof": [
@@ -4094,6 +4295,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717364315
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1608081305]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "discord.gg/savetf2 NW",
 				"time": 1712868129
 			},
@@ -4107,12 +4320,60 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717364318
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1608205464]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717533585
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1608245637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717364321
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1608348158]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1706836699
 			},
 			"proof": [
 				"Bot"
 			],
 			"steamid": "[U:1:1608370045]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717364313
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1608653654]"
 		},
 		{
 			"attributes": [
@@ -7208,6 +7469,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717364632
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1668280218]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1711944683
 			},
 			"proof": [
@@ -7263,6 +7536,18 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1668754465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1717364628
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1668838482]"
 		},
 		{
 			"attributes": [
@@ -8994,6 +9279,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "we need to #fixTF2",
+				"time": 1717375138
+			},
+			"steamid": "[U:1:1693522464]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1712118845
 			},
 			"proof": [
@@ -9335,6 +9630,18 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1717373050
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1697850976]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Luna",
 				"time": 1711597386
 			},
@@ -9611,6 +9918,32 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1701579918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "save.tf #FixTF2",
+				"time": 1717364476
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1701874167]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "save.tf #FixTF2",
+				"time": 1717367542
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1702305809]"
 		},
 		{
 			"attributes": [
@@ -10026,6 +10359,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "mingo",
+				"time": 1717535316
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1735689138]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "BNDR",
 				"time": 1717271706
 			},
@@ -10059,6 +10405,16 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1737907418]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "KWXwWy",
+				"time": 1717364069
+			},
+			"steamid": "[U:1:1737965562]"
 		}
 	]
 }
