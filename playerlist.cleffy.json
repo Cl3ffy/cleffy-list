@@ -2143,11 +2143,11 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "mental retardation",
-				"time": 1711941834
+				"player_name": "-\u2067\u2067\udb40\udc21\udb40\udc21\udb40\udc21\udb40\udc21\udb40\udc21\udb40\udc21",
+				"time": 1717976196
 			},
 			"steamid": "[U:1:1458910803]"
 		},
@@ -10379,6 +10379,45 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1735721307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dude #FixTF2",
+				"time": 1717885567
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1735766812]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "me\u0e39\u0e47lody\u0e4c",
+				"time": 1717977925
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737421426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Der Australische H\u00fchnerw\u00fcrger",
+				"time": 1717883521
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737586409]"
 		},
 		{
 			"attributes": [
