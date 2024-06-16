@@ -615,6 +615,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Yung Trappa",
+				"time": 1718495023
+			},
+			"steamid": "[U:1:293118363]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DarkCyren420",
 				"time": 1715489553
 			},
@@ -3404,6 +3414,16 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1593763076]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "talerznik",
+				"time": 1718496153
+			},
+			"steamid": "[U:1:1596240115]"
 		},
 		{
 			"attributes": [
@@ -10359,6 +10379,58 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u0416\u0435\u0440\u0442\u0432\u0430 \u0410\u0444\u0440\u0438\u043a\u0438",
+				"time": 1718495077
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1734988783]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u015em1\u0142\u0118",
+				"time": 1718495096
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1735460090]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "francy.anto000 #fixtf2",
+				"time": 1718494361
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1735545842]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pisko3000",
+				"time": 1718494031
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1735663218]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "mingo",
 				"time": 1717535316
 			},
@@ -10398,6 +10470,83 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Nshymyrwn",
+				"time": 1718494006
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1736190534]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Painful_Ante_G_Car",
+				"time": 1718494190
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1736338141]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718493297
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1736954598]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)dsc.gg/potion",
+				"time": 1718494792
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737183581]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "erikivanloa",
+				"time": 1718495186
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737237689]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/potion",
+				"time": 1718493463
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737333676]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "me\u0e39\u0e47lody\u0e4c",
 				"time": 1717977925
 			},
@@ -10405,6 +10554,45 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1737421426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718493957
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737425788]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718494084
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737477275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/potion",
+				"time": 1718494086
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737583837]"
 		},
 		{
 			"attributes": [
@@ -10424,6 +10612,70 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(4)dsc.gg/potion",
+				"time": 1718493455
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737684249]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)dsc.gg/potion",
+				"time": 1718494091
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737699178]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718493304
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737726560]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)dsc.gg/potion",
+				"time": 1718494088
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737756157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718493665
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737774560]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "M\u0e3ai\u0e3ad\u0e49n1g\u0e3aht",
 				"time": 1717278055
 			},
@@ -10431,6 +10683,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1737785501]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718493465
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737843804]"
 		},
 		{
 			"attributes": [
@@ -10454,6 +10719,196 @@
 				"time": 1717364069
 			},
 			"steamid": "[U:1:1737965562]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718493299
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1737989669]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)dsc.gg/potion",
+				"time": 1718493458
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738019129]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718493308
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738037008]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718493654
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738054144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718494798
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738112962]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718494834
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738164329]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/potion",
+				"time": 1718494839
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738258199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)dsc.gg/potion",
+				"time": 1718494801
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738356222]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/potion",
+				"time": 1718494370
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738435662]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)dsc.gg/potion",
+				"time": 1718494117
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738515216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/potion",
+				"time": 1718494454
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738543212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718494452
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738591108]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)dsc.gg/potion",
+				"time": 1718493460
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1738728676]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/potion",
+				"time": 1718494363
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1739027493]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1718494829
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1739161208]"
 		}
 	]
 }
