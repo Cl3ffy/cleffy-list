@@ -11,6 +11,8 @@ I am the only one who manages this list. I only add cheaters/bots I encounter my
 
 This list is most effective on Stockholm and Frankfurt servers, since that's where I play casual most of the time.
 
+Remember that even though I'm very careful with who I mark as a cheater, I am a human and therefore suspectible to human error. Misclicks or other blunders can never be fully ruled out. Don't just blindly trust my list, or anyone else's list for that matter.
+
 #
 
 [My Steam, in case you have any questions/complaints/whatever](https://steamcommunity.com/id/Cleffy/)
