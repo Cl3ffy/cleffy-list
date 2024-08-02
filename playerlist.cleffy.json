@@ -224,19 +224,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Christian",
-				"time": 1713046246
-			},
-			"proof": [
-				"Bot"
-			],
-			"steamid": "[U:1:72747650]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"time": 1715493774
 			},
 			"proof": [
@@ -1178,6 +1165,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u041a\u0438\u0440\u0438\u043b\u043b",
+				"time": 1719924261
+			},
+			"steamid": "[U:1:1161242017]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1990,19 +1987,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ESCAPE \u0e4dTHE\u0e4d MATRI\u0e4dX",
-				"time": 1716249822
-			},
-			"proof": [
-				"Bot"
-			],
-			"steamid": "[U:1:1273928930]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "Suicide",
 				"time": 1719047378
 			},
@@ -2206,6 +2190,16 @@
 				"time": 1717976196
 			},
 			"steamid": "[U:1:1458910803]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "oog",
+				"time": 1720025104
+			},
+			"steamid": "[U:1:1477813187]"
 		},
 		{
 			"attributes": [
@@ -5457,6 +5451,16 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1615282035]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u043f\u0438\u0432\u043d\u043e\u0435 \u0441\u0443\u0441\u043b\u043e",
+				"time": 1719858216
+			},
+			"steamid": "[U:1:1616198772]"
 		},
 		{
 			"attributes": [
@@ -11197,6 +11201,16 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1755934406]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "domie T",
+				"time": 1719924141
+			},
+			"steamid": "[U:1:1770106607]"
 		}
 	]
 }
