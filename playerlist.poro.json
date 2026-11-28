@@ -6,7 +6,7 @@
     ],
     "description": "Poro's personal cheater and bot list. Formerly known as cleffy-list.",
     "title": "poro-list",
-    "update_url": "https://raw.githubusercontent.com/Poropeura/poro-list/main/playerlist.poro.json"
+    "update_url": "https://raw.githubusercontent.com/Poropeura/poro-list/refs/heads/main/playerlist.poro.json"
   },
   "players": [
     {
